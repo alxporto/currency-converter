@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "currency-converter"
 version = "0.1.0"
-description = "A currency converter class built in python to converts from one currency (dolar) to another (real)."
+description = "A currency converter class built in python to converts from one currency to another."
 authors = ["datalastix <datalastix@gmail.com>"]
 readme = "README.md"
 
